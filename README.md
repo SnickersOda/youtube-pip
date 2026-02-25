@@ -1,35 +1,33 @@
+<div align="center">
+
 # 🎬 YouTube PiP Pro
 
-Smart Picture-in-Picture extension for YouTube.
+### Smart • Minimal • Powerful
 
-## ✨ Features
+[![Version](https://img.shields.io/badge/version-3.0-red)]()
+[![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
 
-- 🎨 Clean popup interface
-- 🧠 Smart toggle (auto exit if already in PiP)
-- ⌨️ Hotkey support (Alt + P)
-- ⚡ Instant activation
-- 🔒 No tracking. No data collection.
+⚡ Smart Picture-in-Picture extension for YouTube  
+🧠 Intelligent toggle system  
+⌨️ Hotkey support  
+🎨 Clean modern UI  
 
----
-
-## 🚀 Installation (Manual)
-
-1. Download this repository
-2. Open Chrome
-3. Go to: chrome://extensions/
-4. Enable Developer Mode
-5. Click "Load unpacked"
-6. Select the `src` folder
+</div>
 
 ---
 
-## 🛡 Privacy
+## 🧠 Smart Mode
 
-This extension does not collect, store, or share any personal data.  
-All functionality runs locally in your browser.
+YouTube PiP Pro automatically:
+
+- Enters PiP if not active
+- Exits PiP if already active
+- Works only on YouTube tabs
+- Runs locally (zero tracking)
+
+No nonsense. Just toggle.
 
 ---
 
-## 📜 License
-
-MIT License
+## ⌨️ Hotkey
