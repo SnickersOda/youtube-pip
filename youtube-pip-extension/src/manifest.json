@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube PiP Pro",
+  "version": "3.0",
+  "description": "Умный Picture-in-Picture для YouTube",
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "YouTube PiP Pro"
+  },
+  "commands": {
+    "toggle-pip": {
+      "suggested_key": {
+        "default": "Alt+P"
+      },
+      "description": "Toggle Picture-in-Picture"
+    }
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
